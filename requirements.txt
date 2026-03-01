@@ -1,0 +1,11 @@
+boto3==1.28.85
+pydantic==2.5.0
+langchain==0.1.0
+langchain-community==0.0.10
+python-dotenv==1.0.0
+requests==2.31.0
+PyGithub==2.1.1
+bandit==1.7.5
+safety==2.3.5
+pytest==7.4.3
+cryptography==41.0.7

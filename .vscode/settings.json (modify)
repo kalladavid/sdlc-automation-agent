@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "path/to/your/python/interpreter",
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false
+}
